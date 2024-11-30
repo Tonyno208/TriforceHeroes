@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Triforce Heroes</string>
+    <string name="welcome_text">¡Bienvenido a Triforce Heroes!</string>
+    <string name="hint_username">Usuario</string>
+    <string name="button_navigate">Ir a Créditos</string>
+    <string name="credit_activity_info">Estás usando la versión 1 de Triforce Heroes.</string>
+    <string name="contact_button">Contactar</string>
+    <string name="app_description">Triforce Heroes es un recetario social para fans de Zelda.</string>
+    <string name="email_subject">Consulta de la app Triforce Heroes</string>
+</resources>
